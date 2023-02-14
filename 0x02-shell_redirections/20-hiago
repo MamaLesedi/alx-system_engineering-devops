@@ -1,0 +1,2 @@
+#!/binbash
+tr -d "Cc"
